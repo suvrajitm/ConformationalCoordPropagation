@@ -1,7 +1,7 @@
 import numpy as np
 import logging, sys
 #from subprocess import call
-sys.path.append('./RC/')
+sys.path.append('./CC/')
 sys.path.append('../')
 import myio
 #_logger = logging.getLogger(__name__)
