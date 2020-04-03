@@ -12,8 +12,7 @@ Since the code is part of the *ManifoldEM* workflow, it takes intermediate outpu
 Therefore to run the code independently we need the input files in a specific format. We will update the required file format and description soon.
 
 The graph files are produced by 
-FindCCGraph.py
-FindCCGraphPruned.py (if required)
+FindCCGraph.py , FindCCGraphPruned.py (if required)
 
 The main script is:
 FindConformationalCoord.py
