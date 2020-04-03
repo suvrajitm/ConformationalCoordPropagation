@@ -20,6 +20,7 @@ FindConformationalCoord.py
 
 ## Authors
 Suvrajit Maji and Hstau Liao
+
 We are part of the paper "Propagation of Conformational Coordinates Across Angular Space ..." and also part of the ManifoldEM python software team.
 
 ## Acknowledgments
