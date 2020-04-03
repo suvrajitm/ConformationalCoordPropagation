@@ -21,7 +21,7 @@ FindConformationalCoord.py
 ## Authors
 Suvrajit Maji and Hstau Liao
 
-We are part of the project "Propagation of Conformational Coordinates Across Angular Space ..." and also part of the *ManifoldEM* python software team.
+We are part of the "Propagation of Conformational Coordinates Across Angular Space ..." project and also part of the *ManifoldEM* python software team.
 
 ## Acknowledgments
 Also thanks to other *ManifoldEM* python team members Evan Seitz and Sonya Hanson.
