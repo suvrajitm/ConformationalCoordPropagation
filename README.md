@@ -19,7 +19,7 @@ The main script is:
 FindConformationalCoord.py
 
 ## Authors
-Suvrajit Maji (Matlab and Python version)
+Suvrajit Maji (Matlab and Python version) 
 Hstau Liao (Python version)
 
 We are part of the "Propagation of Conformational Coordinates Across Angular Space ..." project and also part of the *ManifoldEM* python software team.
