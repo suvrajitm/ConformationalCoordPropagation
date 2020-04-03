@@ -24,7 +24,7 @@ Suvrajit Maji and Hstau Liao
 We are part of the paper "Propagation of Conformational Coordinates Across Angular Space ..." and also part of the *ManifoldEM* python software team.
 
 ## Acknowledgments
-Also thanks to other* ManifoldEM* python team members Evan Seitz and Sonya Hanson.
+Also thanks to other *ManifoldEM* python team members Evan Seitz and Sonya Hanson.
 
 
 
