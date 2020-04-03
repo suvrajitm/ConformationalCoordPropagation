@@ -8,7 +8,7 @@ We are providing here with the python code which is part of the *ManifoldEM* sof
 
 
 ## Instructions
-Since the code is part of the *ManifoldEM* workflow, it takes intermediate output from *ManifoldEM* as an input. 
+Since the code is part of the *ManifoldEM* workflow, it takes intermediate output from *ManifoldEM* as input. 
 Therefore to run the code independently we need the input files in a specific format. We will update the required file format and description soon.
 
 The graph files are produced by 
