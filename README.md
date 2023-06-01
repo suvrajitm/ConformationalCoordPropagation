@@ -18,6 +18,7 @@ FindCCGraph.py , FindCCGraphPruned.py (if required)
 The main script is:
 FindConformationalCoord.py
 
+
 ## Authors
 Suvrajit Maji (Matlab and Python version)
 
